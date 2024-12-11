@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    color: darkgreen;
+    background-color: lightgreen;
+    border: 2px solid darkgreen;
+    padding: 15px;
+    margin: 20px;
+}
+h2 {
+    font-size: 25px;
+    font-weight: bold;
+
+}
+a {
+    color: darkgreen;
+    text-decoration: underline;
+}
+li {
+    font-style: italic;
+    font-size: 15px;
+}
+ol {
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: underline;
+}
